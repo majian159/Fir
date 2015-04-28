@@ -1,0 +1,10 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/packages/Newtonsoft.Json.4.5.1
+/Rabbit.FirApi/bin/Debug
+/Rabbit.FirApi/obj/Debug
+/Shell/bin/Debug
+/Shell/obj/Debug
+/FirWebApi.v12.suo
